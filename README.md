@@ -1,4 +1,4 @@
-# NEFL_Haplotype_Editing
+# NEFL Haplotype Editing
 
 This repo contains the code used to calculate patient population coverage with haplotype editing as compared to mutation-targeted editing. It focuses on the NEFL window for CRISPR excision.
 
